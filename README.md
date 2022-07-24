@@ -1,1 +1,57 @@
-# world-crackers
+# world-crackers Tools Welcome
+
+▄︻┻┳═一 2004 Years old id cracker Free Tools -─═┳︻
+
+▄︻┻┳═一Talha All 2004-2009 Years old I'd command  -─═┳︻
+
+▄︻┻┳═一Free 2004 Years old id crack command -─═┳︻
+
+▄︻┻┳═一  fast Cracker Tools 😘  2004 Years old id -─═┳︻
+
+▄︻┻┳═一 Talha World cracker Tools  -─═┳︻
+
+
+
+
+<<=======∆======∆========∆=======∆======∆======>>
+
+▄︻┻┳═一 apt update
+
+▄︻┻┳═一apt upgrade
+ 
+▄︻┻┳═一 pkg install python
+
+▄︻┻┳═一 pkg install python2
+
+▄︻┻┳═一 pkg install git 
+
+▄︻┻┳═一 pip2 install requests
+
+▄︻┻┳═一 pip2 install mechanize
+
+▄︻┻┳═一 pip install requests bs4
+
+▄︻┻┳═一 pip2 install requests bs4
+
+▄︻┻┳═一 pip install mechanize lolcat
+
+▄︻┻┳═一 pip install futures
+
+▄︻┻┳═一 pip2 install mechanize 
+
+▄︻┻┳═一 rm -rf world-crackers
+
+▄︻┻┳═一 git clone https://github.com/TermuxTalha/world-crackers.git
+
+▄︻┻┳═一 cd world-crackers
+ 
+▄︻┻┳═一 python world-cracker.py
+
+
+
+ ▄︻┻┳═一JOIN MY TELEGRAM GROUP : https://t.me/talhatechnology
+
+▄︻┻┳═一 Join my WhatsApp group : https://chat.whatsapp.com/Bherp2QiChNH5rffkuzQpc
+
+
+▄︻┻┳═一Thanks for Using The world-crackers TOOLS  🤠  -─═┳︻
